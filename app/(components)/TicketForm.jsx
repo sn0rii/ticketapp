@@ -114,6 +114,7 @@ const TicketForm = () => {
           />
           <label>5</label>
         </div>
+        <label>Progress</label>
       </form>
     </div>
   );
