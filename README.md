@@ -4,3 +4,4 @@ Free COde Camp
 
 next js
 mongodb
+tailwind
